@@ -1,0 +1,7 @@
+data/
+result/
+result_mm/
+src/tensorboard/
+*.pyc
+result_relight/
+env_map/
