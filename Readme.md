@@ -1,4 +1,4 @@
-#  [Relit-NeuLF: Efficient Novel View Synthesis with Neural 4D Light Field](https://oppo-us-research.github.io/RelitNeuLF-website/)  
+#  [Relit-NeuLF: Efficient Relighting and Novel View Synthesis via Neural 4D Light Field](https://oppo-us-research.github.io/RelitNeuLF-website/)  
 ## ACM Multimedia(ACM MM) 2023 
 [Zhong Li](https://sites.google.com/site/lizhong19900216)<sup>1</sup>,
  [Liangchen Song](https://lsongx.github.io/)<sup>2</sup>,
